@@ -1,5 +1,5 @@
 # Kogi Codes
-Esse era um projeto para a agencia de um amigo, o site consiste em um e-commerce para venda de resources para plataforma multi theft auto mas o projeto foi descontinuado.
+Esse era um projeto para a agência de um amigo. O site consistia em um e-commerce para a venda de resources para a plataforma Multi Theft Auto, mas o projeto foi descontinuado.
 
 # Tecnologias utilizadas
 ### Backend
